@@ -1,6 +1,6 @@
 # SeaIntention
 
-A dataset for testing the performance of methods torecognizethe intention of a group of sea-surface targets.
+A dataset for testing the performance of methods to recognizethe intention of a group of sea-surface targets.
 
 The dataset is uploaded on cowtransfer. The link is listed below.
 
